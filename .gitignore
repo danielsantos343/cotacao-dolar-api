@@ -1,0 +1,8 @@
+# Arquivos de teste da exploração inicial
+teste_api.py
+teste_pandas.py
+
+# Arquivos gerados automaticamente pelo Python 
+__pycache__/
+*.pyc
+.venv/
