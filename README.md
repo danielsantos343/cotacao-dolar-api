@@ -111,12 +111,6 @@ coletor.salvar(mensal, "dados/cotacao_dolar_mensal.csv")
 - Um código pode rodar **sem erro e ainda assim estar errado**. Na primeira versão, a maior e a menor cotação apareciam iguais por causa de um `idxmin` no lugar de `idxmax`. O erro só apareceu quando comparei o resultado com o máximo mensal.
 - **Mês parcial** precisa ser sinalizado para não gerar conclusões erradas.
 
-## Próximos passos
-
-- [ ] Gráfico da evolução da cotação (matplotlib)
-- [ ] Automatizar a coleta diária (por exemplo, com n8n)
-- [ ] Coletar outras séries do SGS (euro, Selic) usando a mesma classe
-
 ## Autor
 
 **Daniel Santos**, analista de dados em formação
